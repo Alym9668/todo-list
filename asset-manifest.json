@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/todo-list/static/css/main.cae6a650.chunk.css",
+    "main.js": "/todo-list/static/js/main.27bf5392.chunk.js",
+    "main.js.map": "/todo-list/static/js/main.27bf5392.chunk.js.map",
+    "runtime-main.js": "/todo-list/static/js/runtime-main.3350f6dc.js",
+    "runtime-main.js.map": "/todo-list/static/js/runtime-main.3350f6dc.js.map",
+    "static/js/2.25a47cd9.chunk.js": "/todo-list/static/js/2.25a47cd9.chunk.js",
+    "static/js/2.25a47cd9.chunk.js.map": "/todo-list/static/js/2.25a47cd9.chunk.js.map",
+    "index.html": "/todo-list/index.html",
+    "static/css/main.cae6a650.chunk.css.map": "/todo-list/static/css/main.cae6a650.chunk.css.map",
+    "static/js/2.25a47cd9.chunk.js.LICENSE.txt": "/todo-list/static/js/2.25a47cd9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/todo-list/static/media/sea-edge-79ab30e2.90a77150.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3350f6dc.js",
+    "static/js/2.25a47cd9.chunk.js",
+    "static/css/main.cae6a650.chunk.css",
+    "static/js/main.27bf5392.chunk.js"
+  ]
+}
