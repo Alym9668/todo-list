@@ -1,0 +1,6 @@
+.add__todo {
+  width: 350px;
+  margin: 30px auto;
+  display: flex;
+  justify-content: space-around;
+}

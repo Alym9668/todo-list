@@ -1,0 +1,29 @@
+.complited {
+  text-decoration: line-through;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.todo__list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+#todo__list-content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  padding: 1rem 2rem;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.todo__list-task {
+  font-size: large;
+  color: white;
+  font-family: sans-serif;
+}

@@ -1,0 +1,28 @@
+.main-modal {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.inner-modal {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  row-gap: 20px;
+  width: 400px;
+  height: 250px;
+  border-radius: 5px;
+  background-image: url('../../img/sea-edge-79ab30e2.png');
+  margin: 150px auto;
+  align-items: center;
+}
+
+.close {
+  position: absolute;
+  top: 1px;
+  right: 1px;
+}
